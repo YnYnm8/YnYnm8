@@ -7,13 +7,13 @@
 
 ## 🚀 À propos de moi
 
-Ancienne infirmière et professeure au Japon pendant 20 ans, je me suis reconvertie
-dans le développement web avec une conviction :
-**la meilleure technologie est celle conçue avec empathie**.
+Ancienne infirmière et professeure au Japon avec plus de 20 ans d’expérience, je me reconvertis aujourd’hui en Développeuse Full-Stack en France.
 
-Installée en France depuis 2023, je suis en formation
-**Développeur Web et Web Mobile (Bac+2 — RNCP 37674)** à La Plateforme, Toulouse.  
-Ma prochaine étape : **l'intégration de l'IA dans les applications web**.
+Mon parcours dans les environnements médicaux et éducatifs m’a appris à gérer des situations complexes, à analyser rapidement et à prendre des décisions sous pression.
+
+Aujourd’hui, je développe des applications web avec React, Node.js et PHP, avec un intérêt particulier pour les systèmes utiles, robustes et centrés utilisateur.
+
+Je recherche une alternance afin de contribuer à des projets concrets en équipe technique.
 
 > 🔍 Je recherche une **alternance** pour contribuer à des projets innovants.
 
@@ -50,7 +50,7 @@ Ma prochaine étape : **l'intégration de l'IA dans les applications web**.
 Plateforme internationale pour un festival accueillant **120 pays**  
 > ⚠️ Code confidentiel — propriété de La Plateforme, Toulouse
 `React` `Node.js` `Express` `MySQL` `Sequelize` `JWT` `Argon2` `Docker` `Tailwind`
-- API RESTful complète, authentification JWT + Argon2
+- API REST sécurisée permettant la gestion complète des évaluations de films
 - Protection systématique CSRF / XSS
 - Interface responsive, modélisation UML, méthode Agile (Scrum/Kanban)
 
